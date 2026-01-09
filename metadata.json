@@ -1,0 +1,16 @@
+{
+  "description": "Move show apps button at the left of the dash.",
+  "name": "Show Apps First",
+  "shell-version": [
+    "46",
+    "47",
+    "48",
+    "49"
+  ],
+  "url": "https://github.com/fthx/show-apps-first",
+  "uuid": "show-apps-first@fthx",
+  "version": 999,
+  "donations": {
+    "paypal": "fthx75"
+  }
+}
